@@ -64,3 +64,7 @@ Python 3, the following changes are needed:
 Easley, D., Lopez de Prado, M., & O'Hara, M. (2012). Flow Toxicity and
 Liquidity in a High-frequency World. *Review of Financial Studies*, 25(5),
 1457-1493.
+
+<!-- AUTO:footer -->
+Managed by [policy-orchestrator](https://github.com/jthorvaldur/policy-orchestrator). Category: quant-finance. 8 commits, last updated 6 days ago.
+<!-- /AUTO:footer -->
